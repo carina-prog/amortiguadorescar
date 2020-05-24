@@ -1,2 +1,2 @@
-# amortiguadorescar
-Este es mi repositorio para amortiguadorespindonga
+# amortiguadoresPindonga
+Repo para practicar el compartir el desarrollo
